@@ -1,9 +1,10 @@
 # floating-bar-hotkeys
 
-### Floating bar with hotkeys/pieces of text
+### Floating bar with hotkeys/pieces of text [ENG]
+Polish language below
 
 ## Installation
-Uou need python 3+ </br>
+You need python 3+ </br>
 `pip install ./requirements.txt`
 
 ## Usage
@@ -27,3 +28,25 @@ Uou need python 3+ </br>
 ![image](https://user-images.githubusercontent.com/57834846/213604678-9d5405ad-a9ed-4f04-9231-21614d7d7507.png)
 
 ![image](https://user-images.githubusercontent.com/57834846/213604739-991c6de0-b1ce-4c18-8036-2e6fe5292745.png)
+
+***
+
+### Pływający pasek z klawiszami skrótów/ fragmentami tekstu [PL]
+
+## Instalacja
+Potrzebujesz python 3+
+`pip install ./requirements.txt`
+
+## Uruchomienie
+`python ./floating-bar-hotkeys.py`
+
+## Instrukcja użycia
+
+1. Wybierz, czy chcesz używać klawiszy skrótu w globalnym ekranie czy w określonych oknach. <br/>**Niektóre klawisze skrótu będą działać TYLKO w określonych oknach!
+2. Wprowadź etykiety i klawisze skrótów/ fragmenty tekstu. You can press '+' button to add more.
+<br/>Przykłady:
+ </br>&nbsp;&nbsp;&nbsp;&nbsp; **Hotkey:**  `ctrl,shift,esc` -> otwórz menadżer zadań
+ </br>&nbsp;&nbsp;&nbsp;&nbsp; **Text:**  `Lubię pizzę`
+3. Utwórz Pływający Pasek poprzez kliknięcie ZIELONEGO przycisku.
+4. Zacznij używać Paska! Kiedy naciśniesz zadeklarowaną etykietę, wtedy hotkey/tekst zostanie wciśnięty!
+5. Aby zamknąć Pasek wciśnij CZERWONY przycisk.
