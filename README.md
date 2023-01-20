@@ -1,9 +1,11 @@
 # floating-bar-hotkeys
 
 ### Floating bar with hotkeys/pieces of text [ENG]
+
 Polish language below
 
 ## Features
+
 - easy to use
 - lightweight
 - open code (feel free to customize your own version!)
@@ -12,10 +14,12 @@ Polish language below
 **Warning:** sometimes some bugs may be encountered
 
 ## Installation
+
 You need python 3+ </br>
-`pip install ./requirements.txt`
+```pip install ./requirements.txt```
 
 ## Usage
+
 `python ./floating-bar-hotkeys.py` or simply double click on icon
 
 ## How to use
@@ -31,7 +35,7 @@ You need python 3+ </br>
 
 ## Screenshots
 
-Tkinter basic style in his prime.
+> Tkinter basic style in his prime.
 
 ![image](https://user-images.githubusercontent.com/57834846/213604541-48275a54-3531-449a-b1c6-7453eeb5792f.png)
 
@@ -46,6 +50,7 @@ Tkinter basic style in his prime.
 ### Pływający pasek z klawiszami skrótów/ fragmentami tekstu [PL]
 
 ## Cechy
+
 - łatwy w użyciu
 - lekki
 - otwarty kod (nie krępuj się dostosować własnej wersji!)
@@ -54,10 +59,12 @@ Tkinter basic style in his prime.
 **Uwaga**: czasami mogą wystąpić pewne błędy
 
 ## Instalacja
+
 Potrzebujesz python 3+</br>
 `pip install ./requirements.txt`
 
 ## Uruchomienie
+
 `python ./floating-bar-hotkeys.py` lub dwa razy kliknij na ikonę
 
 ## Instrukcja użycia
