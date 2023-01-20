@@ -34,7 +34,7 @@ You need python 3+ </br>
 ### Pływający pasek z klawiszami skrótów/ fragmentami tekstu [PL]
 
 ## Instalacja
-Potrzebujesz python 3+
+Potrzebujesz python 3+</br>
 `pip install ./requirements.txt`
 
 ## Uruchomienie
