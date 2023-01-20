@@ -69,7 +69,7 @@ Potrzebujesz python 3+</br>
 
 ## Instrukcja użycia
 
-1. Wybierz, czy chcesz używać klawiszy skrótu w globalnym ekranie czy w określonych oknach. <br/>**Niektóre klawisze skrótu będą działać TYLKO w określonych oknach!
+1. Wybierz, czy chcesz używać klawiszy skrótu w globalnym ekranie czy w określonych oknach. <br/>**Niektóre klawisze skrótu będą działać TYLKO w określonych oknach!**
 2. Wprowadź etykiety i klawisze skrótów/ fragmenty tekstu. Możesz wybrać '+' aby dodać kolejne pola. Wprowadzane klawisze rozdziel przecinkiem ','
 <br/>Przykłady:
  </br>&nbsp;&nbsp;&nbsp;&nbsp; **Hotkey:**  `ctrl,shift,esc` -> otwórz menadżer zadań
