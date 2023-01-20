@@ -13,7 +13,7 @@ You need python 3+ </br>
 ## How to use
 
 1. Choose if you would like to use hotkeys in global screen or specific windows. <br/>**Some hotkeys will work ONLY in specific windows!**
-2. Input labels and hotkeys/pieces of text. You can press '+' button to add more.
+2. Input labels and hotkeys/pieces of text. You can press '+' button to add more. Split keys by ','
 <br/>Examples:
  </br>&nbsp;&nbsp;&nbsp;&nbsp; **Hotkey:**  `ctrl,shift,esc` -> open task manager
  </br>&nbsp;&nbsp;&nbsp;&nbsp; **Text:**  `I like pizza`
@@ -43,7 +43,7 @@ Potrzebujesz python 3+</br>
 ## Instrukcja użycia
 
 1. Wybierz, czy chcesz używać klawiszy skrótu w globalnym ekranie czy w określonych oknach. <br/>**Niektóre klawisze skrótu będą działać TYLKO w określonych oknach!
-2. Wprowadź etykiety i klawisze skrótów/ fragmenty tekstu. You can press '+' button to add more.
+2. Wprowadź etykiety i klawisze skrótów/ fragmenty tekstu. Możesz wybrać '+' aby dodać kolejne pola. Wprowadzane klawisze rozdziel przecinkiem ','
 <br/>Przykłady:
  </br>&nbsp;&nbsp;&nbsp;&nbsp; **Hotkey:**  `ctrl,shift,esc` -> otwórz menadżer zadań
  </br>&nbsp;&nbsp;&nbsp;&nbsp; **Text:**  `Lubię pizzę`
