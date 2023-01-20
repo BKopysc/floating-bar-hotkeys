@@ -18,7 +18,7 @@ You need python 3+ </br>
  </br>&nbsp;&nbsp;&nbsp;&nbsp; **Hotkey:**  `ctrl,shift,esc` -> open task manager
  </br>&nbsp;&nbsp;&nbsp;&nbsp; **Text:**  `I like pizza`
 3. Create Floating Bar by pressing GREEN button
-4. Start using Bar! When you press declared label then hotkey/text will be pressed down!
+4. Start using Bar! When you press declared label then hotkey/text will be pressed down! You can move Bar by dragging purple field.
 5. To close Floating Bar press RED button.
 
 ## Screenshots
@@ -48,5 +48,5 @@ Potrzebujesz python 3+</br>
  </br>&nbsp;&nbsp;&nbsp;&nbsp; **Hotkey:**  `ctrl,shift,esc` -> otwórz menadżer zadań
  </br>&nbsp;&nbsp;&nbsp;&nbsp; **Text:**  `Lubię pizzę`
 3. Utwórz Pływający Pasek poprzez kliknięcie ZIELONEGO przycisku.
-4. Zacznij używać Paska! Kiedy naciśniesz zadeklarowaną etykietę, wtedy hotkey/tekst zostanie wciśnięty!
+4. Zacznij używać Paska! Kiedy naciśniesz zadeklarowaną etykietę, wtedy hotkey/tekst zostanie wciśnięty! Pasek można przesuwać, przeciągając fioletowe pole.
 5. Aby zamknąć Pasek wciśnij CZERWONY przycisk.
