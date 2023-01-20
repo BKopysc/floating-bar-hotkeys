@@ -16,7 +16,7 @@
 ## Installation
 
 You need python 3+ </br>
-```pip install ./requirements.txt```
+```pip install -r ./requirements.txt```
 
 ## Usage
 
@@ -61,7 +61,7 @@ You need python 3+ </br>
 ## Instalacja
 
 Potrzebujesz python 3+</br>
-`pip install ./requirements.txt`
+`pip install -r ./requirements.txt`
 
 ## Uruchomienie
 
