@@ -2,7 +2,7 @@
 
 ### Floating bar with hotkeys/pieces of text [ENG]
 
-Polish language below
+[Polish language below](#polish_header)
 
 ## Features
 
@@ -46,7 +46,7 @@ You need python 3+ </br>
 ![image](https://user-images.githubusercontent.com/57834846/213604739-991c6de0-b1ce-4c18-8036-2e6fe5292745.png)
 
 ***
-
+<a name="polish_header"></a>
 ### Pływający pasek z klawiszami skrótów/ fragmentami tekstu [PL]
 
 ## Cechy
