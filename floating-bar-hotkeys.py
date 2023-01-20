@@ -269,8 +269,8 @@ class HelpWindow(tk.Toplevel):
         infoLabel.pack()
         firstLabel=tk.Label(self, text="1. Choose if you want to use in global screen or custom window. \nSome hotkeys works only on custom windows!",  font=('Sans 10'), padx=5,pady=5,width=100)
         firstLabel.pack()
-        tk.Label(self, text="2. Add labels and hotkeys/pieces of text.",  font=('Sans 10'), padx=5,pady=5,width=100).pack()
-        tk.Label(self, text="3. Click green button to generate floating bar. It will pop up in upper left corner!\nYou can now use shortcuts by clicking them!",  font=('Sans 10'), padx=5,pady=5,width=100).pack()
+        tk.Label(self, text="2. Add labels and hotkeys/pieces of text. Split keys by ','",  font=('Sans 10'), padx=5,pady=5,width=100).pack()
+        tk.Label(self, text="3. Click green button to generate floating bar. It will pop up in upper left corner!\nYou can now use shortcuts by clicking them! You can move Bar by dragging purple field.",  font=('Sans 10'), padx=5,pady=5,width=100).pack()
         tk.Label(self, text="AVAILABLE HOTKEYS",  font=('Sans 10 bold',), padx=5,pady=15,width=100).pack()
 
         horizontalScroll = tk.Scrollbar(self, orient = 'horizontal')
